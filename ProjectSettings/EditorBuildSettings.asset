@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 7e70cbbe88ea9f54f9b886a50b69fad4
+  - enabled: 1
+    path: Assets/Scenes/panelonline/GameOnline.unity
+    guid: c9ab83b58d2769849bf3f4a04e02a34e
   m_configObjects: {}
